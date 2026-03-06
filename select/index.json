@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ボイドロイド",
+  "base_artist": "r-906",
+  "createdAt": "2026-03-06T11:18:25.081218Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ボイドロイド",
+      "artist": "r-906",
+      "has_synced": true,
+      "path": "select/01_ボイドロイド_r-906.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ボイドロイド",
+      "artist": "r-906",
+      "has_synced": false,
+      "path": "select/pl_01_ボイドロイド_r-906.txt"
+    }
+  ]
+}
